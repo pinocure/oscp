@@ -1,5 +1,0 @@
-# OSCP Active Directory
-
-
-
-
