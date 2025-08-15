@@ -62,6 +62,7 @@ deactivate
 git clone https://github.com/teambi0s/dfunc-bypasser.git
 ```
 
+<br>
 
 ---
 
@@ -152,6 +153,7 @@ mv info.zip info.txt
 ```
 
 
+<br>
 
 
 ---
@@ -285,6 +287,7 @@ python dfunc-bypasser.py --url 'http://dev.pinocure.com/?page=phar://uploads/1f8
 ```
 
 
+<br>
 
 
 ---
